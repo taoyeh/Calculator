@@ -1,0 +1,10 @@
+E:\TYH\Windows程序设计\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\TYH\Windows程序设计\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\TYH\Windows程序设计\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\TYH\Windows程序设计\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\TYH\Windows程序设计\Calculator\Calculator\obj\Debug\Calculator.Cal.resources
+E:\TYH\Windows程序设计\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\TYH\Windows程序设计\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\TYH\Windows程序设计\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\TYH\Windows程序设计\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\TYH\Windows程序设计\Calculator\Calculator\obj\Debug\Calculator.pdb
